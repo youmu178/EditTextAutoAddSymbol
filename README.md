@@ -1,7 +1,7 @@
 EditTextAutoAddSymbol
 =====================
 
-EditText回车自动添加符号
+EditText回车自动添加符号,一个单元一个单元的删除。
 
 
 EditText mEditText = findViewById(R.id.et);
