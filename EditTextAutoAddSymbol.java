@@ -1,5 +1,3 @@
-package com.testcontact;
-
 import java.util.regex.Pattern;
 
 import android.content.Context;
